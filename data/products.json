@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Pro 15",
+    "slug": "laptop-pro-15",
+    "description": "High-performance laptop with 16GB RAM, Intel i7 processor, and 512GB SSD. Perfect for professionals and developers.",
+    "price": 1299.99,
+    "category": "Electronics",
+    "inventory": 45,
+    "lastUpdated": "2024-01-15T10:30:00.000Z",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Wireless Headphones",
+    "slug": "wireless-headphones",
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life and crystal-clear audio quality.",
+    "price": 199.99,
+    "category": "Electronics",
+    "inventory": 28,
+    "lastUpdated": "2024-01-14T14:20:00.000Z",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Smart Watch",
+    "slug": "smart-watch",
+    "description": "Fitness tracking smartwatch with heart rate monitor, GPS, and 7-day battery life. Water-resistant up to 50m.",
+    "price": 299.99,
+    "category": "Electronics",
+    "inventory": 15,
+    "lastUpdated": "2024-01-13T09:15:00.000Z",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "Running Shoes",
+    "slug": "running-shoes",
+    "description": "Comfortable running shoes with breathable mesh upper, cushioned sole, and excellent arch support for all-day comfort.",
+    "price": 89.99,
+    "category": "Sports",
+    "inventory": 7,
+    "lastUpdated": "2024-01-12T16:45:00.000Z",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "Yoga Mat",
+    "slug": "yoga-mat",
+    "description": "Premium non-slip yoga mat with extra padding. Eco-friendly material, easy to clean, and includes carrying strap.",
+    "price": 39.99,
+    "category": "Sports",
+    "inventory": 22,
+    "lastUpdated": "2024-01-11T11:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "6",
+    "name": "Coffee Maker",
+    "slug": "coffee-maker",
+    "description": "Programmable drip coffee maker with thermal carafe, auto shut-off, and 12-cup capacity. Makes perfectly brewed coffee every time.",
+    "price": 79.99,
+    "category": "Kitchen",
+    "inventory": 18,
+    "lastUpdated": "2024-01-10T13:30:00.000Z",
+    "image": "https://plus.unsplash.com/premium_photo-1661722983090-11783531c332?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "id": "7",
+    "name": "Office Chair",
+    "slug": "office-chair",
+    "description": "Ergonomic office chair with lumbar support, adjustable height, and 360-degree swivel. Perfect for long work hours.",
+    "price": 249.99,
+    "category": "Furniture",
+    "inventory": 12,
+    "lastUpdated": "2024-01-09T08:20:00.000Z",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=500&h=500&fit=crop"
+  },
+  {
+    "id": "8",
+    "name": "Desk Lamp",
+    "slug": "desk-lamp",
+    "description": "LED desk lamp with adjustable brightness and color temperature. Touch controls and USB charging port included.",
+    "price": 49.99,
+    "category": "Furniture",
+    "inventory": 33,
+    "lastUpdated": "2024-01-08T15:10:00.000Z",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&h=500&fit=crop"
+  }
+]
